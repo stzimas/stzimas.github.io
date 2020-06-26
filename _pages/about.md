@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Spyridon Tzimas"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-=
 I am a Ph.D. candidate of the Department of Mathematics of the University of Ioannina, Greece,
 studying the computational/parameterized complexity of separation problems in graph theory.
 I am interested in all things:
@@ -20,6 +18,7 @@ I am interested in all things:
 
 Short CV
 =
+
 Education
 -
 * **2016-Present** Ph.D. Candidate of the Department of Mathematics, University of Ioannina, Greece
