@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate of the Department of Mathematics of the University of Ioannina, Greece,
-studying the computational/parameterized complexity of separation problems in graph theory.
+studying the computational and parameterized complexity of separation problems in graph theory.
 I am interested in all things:
 * Foundations of Mathematics
 * Theoretical Computer Science
