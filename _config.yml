@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Spyridon Tzimas"
-title_separator          : #"-"
+title                    : "Spyridon Tzimas"
+title_separator          : "-"
 name                     : &name "Spyridon Tzimas"
 description              : &description "Ph.D. Candidate of the University of Ioannina, Greece"
 url                      : https://sptzimas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
