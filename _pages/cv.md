@@ -25,7 +25,7 @@ Awards & Scholarships
 
 Schools & Conferences
 -
-* **2020** 15<sup>th</sup> [International Computer Science Symposium in Russia](https://csr2020.sciencesconf.org/) (**CSR 2020**)
+* **2020** [15<sup>th</sup> International Computer Science Symposium in Russia](https://csr2020.sciencesconf.org/) (**CSR 2020**)
 * **2020** [Computability in Europe 2020: Beyond the horizon of computability](https://cie2020.wordpress.com/) (**CiE 2020**)
 * **2020** [46<sup>th</sup> International Workshop on Graph-Theoretic Concepts in Computer Science](https://algorithms.leeds.ac.uk/wg2020/) (**WG 2020**)
 * **2019** [44<sup>th</sup> International Symposium on Mathematical Foundations of Computer Science](https://tcs.rwth-aachen.de/mfcs2019/) (**MFCS 2019**)
