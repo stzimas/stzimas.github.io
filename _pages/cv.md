@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-A more detailed CV can be downloaded [here](files/SpTzimas_CV.pdf).
+A more detailed CV can be downloaded [here](https://sptzimas.github.io/files/SpTzimas_CV.pdf).
 
 Education
 -
 * **2016-Present** Ph.D. Candidate of the Department of Mathematics, University of Ioannina, Greece<br>Supervisors: [Charis Papadopoulos](http://www.cs.uoi.gr/~charis/), [Loukas Georgiadis](http://www.cse.uoi.gr/~loukas/), [Stavros D. Nikolopoulos](http://www.cse.uoi.gr/~stavros/)
 * **2014-Present** Undergraduate Student of the Department of CSE, University of Ioannina, Greece
-* **2013-2016** M.Sc. in Mathematics with a specialization in Computational Mathematics and Computer Science, University of Ioannina, Greece<br>Thesis: [On the Subset Feedback Vertex Set on Interval Graphs and Permutation Graphs](files/SpTzimas_MSc_Thesis.pdf)<br>Supervisor: [Charis Papadopoulos](http://www.cs.uoi.gr/~charis/) 
+* **2013-2016** M.Sc. in Mathematics with a specialization in Computational Mathematics and Computer Science, University of Ioannina, Greece<br>Thesis: [On the Subset Feedback Vertex Set on Interval Graphs and Permutation Graphs](https://sptzimas.github.io/files/SpTzimas_MSc_Thesis.pdf)<br>Supervisor: [Charis Papadopoulos](http://www.cs.uoi.gr/~charis/) 
 * **2009-2013** B.Sc. in Mathematics, University of Ioannina, Greece
 
 Awards & Scholarships
