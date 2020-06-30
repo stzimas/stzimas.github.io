@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+A more detailed CV can be downloaded [here](files/SpTzimas_CV.pdf).
+
 Education
 -
-* **2016-Present** Ph.D. Candidate of the Department of Mathematics, University of Ioannina, Greece<br>
-Supervisor: [Charis Papadopoulos](http://www.cs.uoi.gr/~charis/) 
+* **2016-Present** Ph.D. Candidate of the Department of Mathematics, University of Ioannina, Greece<br>Supervisors: [Charis Papadopoulos](http://www.cs.uoi.gr/~charis/), [Loukas Georgiadis](http://www.cse.uoi.gr/~loukas/), [Stavros D. Nikolopoulos](http://www.cse.uoi.gr/~stavros/)
 * **2014-Present** Undergraduate Student of the Department of CSE, University of Ioannina, Greece
-* **2013-2016** M.Sc. in Mathematics with a specialization in Computational Mathematics and Computer Science, University of Ioannina, Greece<br>Thesis: [On the Subset Feedback Vertex Set on Interval Graphs and Permutation Graphs](files/SpTzimas_MSc_Thesis.pdf)<br>Supervisors: [Charis Papadopoulos](http://www.cs.uoi.gr/~charis/), [Loukas Georgiadis](http://www.cse.uoi.gr/~loukas/), [Stavros D. Nikolopoulos](http://www.cse.uoi.gr/~stavros/)
+* **2013-2016** M.Sc. in Mathematics with a specialization in Computational Mathematics and Computer Science, University of Ioannina, Greece<br>Thesis: [On the Subset Feedback Vertex Set on Interval Graphs and Permutation Graphs](files/SpTzimas_MSc_Thesis.pdf)<br>Supervisor: [Charis Papadopoulos](http://www.cs.uoi.gr/~charis/) 
 * **2009-2013** B.Sc. in Mathematics, University of Ioannina, Greece
 
 Awards & Scholarships
@@ -24,13 +25,14 @@ Awards & Scholarships
 
 Schools & Conferences
 -
-* **2020** Computability in Europe 2020: Beyond the horizon of computability (**CiE 2020**)
-* **2020** 46<sup>th</sup> International Workshop on Graph-Theoretic Concepts in Computer Science (**WG 2020**)
-* **2019** 44<sup>th</sup> International Symposium on Mathematical Foundations of Computer Science (**MFCS 2019**)
-* **2018** 13<sup>th</sup> International Symposium on Parameterized and Exact Computation (**IPEC 2018**)
-* **2018** First Congress of Greek Mathematicians (**FCGM 2018**)
-* **2018** 2<sup>nd</sup> Conference of Young Researchers in the Branches of Mathematical Science
-* **2017** 3<sup>rd</sup> Parameterized Complexity Summer School (**PCSS 2017**)
+* **2020** 15<sup>th</sup> [International Computer Science Symposium in Russia](https://csr2020.sciencesconf.org/) (**CSR 2020**)
+* **2020** [Computability in Europe 2020: Beyond the horizon of computability](https://cie2020.wordpress.com/) (**CiE 2020**)
+* **2020** [46<sup>th</sup> International Workshop on Graph-Theoretic Concepts in Computer Science](https://algorithms.leeds.ac.uk/wg2020/) (**WG 2020**)
+* **2019** [44<sup>th</sup> International Symposium on Mathematical Foundations of Computer Science](https://tcs.rwth-aachen.de/mfcs2019/) (**MFCS 2019**)
+* **2018** [13<sup>th</sup> International Symposium on Parameterized and Exact Computation](http://algo2018.hiit.fi/ipec/) (**IPEC 2018**)
+* **2018** [First Congress of Greek Mathematicians](http://www.hms.gr/fcgm2018/index.html) (**FCGM 2018**)
+* **2018** [2<sup>nd</sup> Conference of Young Researchers in the Branches of Mathematical Science](https://sites.google.com/view/math-uoi-gr-conf-20180601/en)
+* **2017** [3<sup>rd</sup> Parameterized Complexity Summer School](https://algo2017.ac.tuwien.ac.at/pcss/) (**PCSS 2017**)
 
 Publications
 -
