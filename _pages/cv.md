@@ -25,6 +25,7 @@ Awards & Scholarships
 
 Schools & Conferences
 -
+* **2020** [47<sup>th</sup> International Colloquium on Automata, Languages and Programming](https://icalp2020.saarland-informatics-campus.de/) (**ICALP 2020**)<br><span style="color:White;">**2020**</span> [35<sup>th</sup> Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics2020.saarland-informatics-campus.de/) (**LICS 2020**)
 * **2020** [15<sup>th</sup> International Computer Science Symposium in Russia](https://csr2020.sciencesconf.org/) (**CSR 2020**)
 * **2020** [Computability in Europe 2020: Beyond the horizon of computability](https://cie2020.wordpress.com/) (**CiE 2020**)
 * **2020** [46<sup>th</sup> International Workshop on Graph-Theoretic Concepts in Computer Science](https://algorithms.leeds.ac.uk/wg2020/) (**WG 2020**)
