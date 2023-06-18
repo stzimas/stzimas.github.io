@@ -18,4 +18,4 @@ interested in doing research in
 * **Data Science**
 * **Big Data**
 
-Please refer to the appropriate sections of this page for more information and/or click [here](https://sptzimas.github.io/files/SpTzimas_CV.pdf) for an extended version of my CV.
+Please refer to the appropriate sections of this page for more information and/or click [here](https://stzimas.github.io/files/SpTzimas_CV.pdf) for an extended version of my CV.
