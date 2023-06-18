@@ -86,7 +86,7 @@ author:
   location         : "UoI, Greece"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=bSbIph4AAAAJ&view_op=list_works&sortby=pubdate #"http://yourfullgooglescholarurl.com"
   email            : "s.tzimas@uoi.gr"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
