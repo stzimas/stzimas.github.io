@@ -13,4 +13,5 @@ author_profile: true
 Funding
 =
 * **2023** Travel Grant, Algorithms and Complexity Department, Max Planck Institute for Informatics (**MPI-INF**)
-* **2021--2022** Contract, Research Committee, University of Ioannina, Greece<br>Project: **DIONI: Computing Infrastracture for Big Data Processing and Analysis**, cofunded by Greece and the European Union
+* **2021--2022** Contract, Research Committee, University of Ioannina, Greece
+  - Project: **DIONI: Computing Infrastracture for Big Data Processing and Analysis**, cofunded by Greece and the European Union
