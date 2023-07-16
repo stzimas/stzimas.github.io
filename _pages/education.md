@@ -18,5 +18,6 @@ author_profile: true
 
 Awards & Scholarships
 =
+* **2023** Travel Grant, Algorithms and Complexity Department, Max Planck Institute for Informatics (**MPI-INF**)
 * **2017--2020** Scholarship, [Hellenic Foundation for Research & Innovation](https://www.elidek.gr/en/) (**HFRI**)
 * **2012** Scholarship and Distinction Award, [State Scholarships Foundation](https://www.iky.gr/en/)
