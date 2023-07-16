@@ -12,7 +12,11 @@ I am a Ph.D. Candidate at the Department of Mathematics, University of Ioannina,
 
 Curriculum Vitae [PDF](https://stzimas.github.io/files/STzimas_CV.pdf)
 
+<p style="color:White;">~</p>
+
 My research interests lie broadly in **Theoretical Computer Science** and **Artificial Intelligence**, **Data Science** and **Big Data**.
+
+<p style="color:White;">~</p>
 
 Education
 =
@@ -24,6 +28,8 @@ Education
   - Supervisor: [Charis Papadopoulos](https://www.cse.uoi.gr/~charis/)
   - Thesis: **The Subset Feedback Vertex Set Problem on Interval Graphs and Permutation Graphs** [PDF](https://stzimas.github.io/files/SpTzimas_MSc_Thesis.pdf)
 * **2009--2013** B.Sc. in Mathematics, University of Ioannina, Greece
+
+<p style="color:White;">~</p>
 
 Publications
 =
@@ -40,6 +46,8 @@ In Conference Proceedings
 * Charis Papadopoulos and Spyridon Tzimas. **Subset Feedback Vertex Set on Graphs of Bounded Independent Set Size.** 13th International Symposium on Parameterized and Exact  Computation (**IPEC 2018**). _Leibniz International Proceedings in Informatics (LIPIcs)_, 115:20:1--20:14 (2019). [arXiv](https://arxiv.org/abs/1805.07141) [DOI](https://doi.org/10.4230/LIPIcs.IPEC.2018.20)
 * Charis Papadopoulos and Spyridon Tzimas. **Polynomial-Time Algorithms for the Subset Feedback Vertex Set Problem on Interval Graphs and Permutation Graphs.** 21st International Symposium on Fundamentals of Computation Theory (**FCT 2017**). _Lecture Notes in Computer Science (LNCS)_, 10472:381--394 (2017). [arXiv](https://arxiv.org/abs/1701.04634) [DOI](https://doi.org/10.1007/978-3-662-55751-8_30)
 
+<p style="color:White;">~</p>
+
 Funding
 =
 * **2023** Travel Grant, Algorithms and Complexity Department, Max Planck Institute for Informatics (**MPI-INF**)
@@ -47,6 +55,8 @@ Funding
   - Project: **DIONI: Computing Infrastracture for Big Data Processing and Analysis**, cofunded by Greece and the European Union
 * **2017--2020** Scholarship, [Hellenic Foundation for Research & Innovation](https://www.elidek.gr/en/) (**HFRI**)
 * **2012** Scholarship and Distinction Award, [State Scholarships Foundation](https://www.iky.gr/en/)
+
+<p style="color:White;">~</p>
 
 Experience
 =
