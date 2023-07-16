@@ -8,14 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a
-* **2016-Present** Ph.D. Candidate, Department of Mathematics, University of Ioannina, Greece
-* **2014-Present** Undergraduate Student, Department of CSE, University of Ioannina, Greece
+I am a Ph.D. Candidate at the Department of Mathematics, University of Ioannina, Greece under the supervision of Prof. [Charis Papadopoulos](https://www.cse.uoi.gr/~charis/). I am currently working in preparation of my thesis in **Algorithmic Graph Theory**.
 
-interested in doing research in
-* **Theoretical Computer Science**
-* **Artificial Intelligence**
-* **Data Science**
-* **Big Data**
+My research interests lie broadly in **Theoretical Computer Science** and **Artificial Intelligence**, **Data Science** and **Big Data**.
 
-Please refer to the appropriate sections of this page for more information and/or click [here](https://stzimas.github.io/files/SpTzimas_CV.pdf) for an extended version of my CV.
+Curriculum Vitae [PDF](https://stzimas.github.io/files/SpTzimas_CV.pdf)
