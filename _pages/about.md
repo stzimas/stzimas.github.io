@@ -15,7 +15,10 @@ I am currently actively searching for postdoctoral opportunities.
 
 <p style="color:White;">~</p>
 
-Curriculum Vitae <span style="background-color:red">[PDF](https://stzimas.github.io/files/STzimas_CV.pdf)</span>
+<td class="PDFHover"><\td>
+<style>.PDFHover:hover{background-color:red;color:white;}</style>
+
+Curriculum Vitae \[<span class="PDFHover">[PDF](https://stzimas.github.io/files/STzimas_CV.pdf)</span>\]
 
 <p style="color:White;">~</p>
 
