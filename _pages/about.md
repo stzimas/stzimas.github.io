@@ -8,27 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at the Department of Mathematics, University of Ioannina, Greece under the supervision of Prof. [Charis Papadopoulos](https://www.cse.uoi.gr/~charis/). I am currently working in preparation of my thesis in **Algorithmic Graph Theory**.
+I recently obtained a Ph.D. from the Department of Mathematics, University of Ioannina, Greece, where I was under the supervision of Prof. [Charis Papadopoulos](https://www.cse.uoi.gr/~charis/).
+My published work is in **Algorithmic and Structural Graph Theory** and **Classical and Parameterized Complexity Theory**.
+My research interests lie broadly in **Theoretical Computer Science**, **Machine Learning** and **Data Science**.
+I am currently actively searching for postdoctoral opportunities.
 
 <p style="color:White;">~</p>
 
-Curriculum Vitae [PDF](https://stzimas.github.io/files/STzimas_CV.pdf)
-
-<p style="color:White;">~</p>
-
-My research interests lie broadly in **Theoretical Computer Science** and **Artificial Intelligence**, **Data Science** and **Big Data**.
+Curriculum Vitae <span style="background-color:red">[PDF](https://stzimas.github.io/files/STzimas_CV.pdf)</span>
 
 <p style="color:White;">~</p>
 
 Education
 =
-* **2016--Present** Ph.D. Candidate, Department of Mathematics, University of Ioannina, Greece
-  - Supervisors: [Charis Papadopoulos](https://www.cse.uoi.gr/~charis/), [Loukas Georgiadis](https://www.cse.uoi.gr/~loukas/), [Stavros D. Nikolopoulos](https://www.cse.uoi.gr/~stavros/)
-  - Thesis: **Path and Cycle Hitting Problems: Algorithms and Complexity** (In Writting)
 * **2014--Present** Undergraduate Student, Department of CSE, University of Ioannina, Greece
+* **2016--2024** Ph.D. Candidate, Department of Mathematics, University of Ioannina, Greece
+  - Supervisor: [Charis Papadopoulos](https://www.cse.uoi.gr/~charis/)
+  - Thesis: **Path and Cycle Hitting Problems: Algorithms and Complexity** [PDF](https://stzimas.github.io/files/STzimas_PhD_Thesis.pdf)
 * **2013--2016** M.Sc. in Mathematics with a specialization in Computational Mathematics and CS, University of Ioannina, Greece
   - Supervisor: [Charis Papadopoulos](https://www.cse.uoi.gr/~charis/)
-  - Thesis: **The Subset Feedback Vertex Set Problem on Interval Graphs and Permutation Graphs** [PDF](https://stzimas.github.io/files/SpTzimas_MSc_Thesis.pdf)
+  - Thesis: **The Subset Feedback Vertex Set Problem on Interval Graphs and Permutation Graphs** [PDF](https://stzimas.github.io/files/STzimas_MSc_Thesis.pdf)
 * **2009--2013** B.Sc. in Mathematics, University of Ioannina, Greece
 
 <p style="color:White;">~</p>
@@ -38,7 +37,7 @@ Publications
 
 In Journals
 -
-* Charis Papadopoulos and Spyridon Tzimas. **Computing a Mininum Subset Feedback Vertex Set on Chordal Graphs Parameterized by Leafage.** _Algorithmica_ (2023). [arXiv](https://arxiv.org/abs/2103.03035) [DOI](https://doi.org/10.1007/s00453-023-01149-5) (Open Access) [SharedIt](https://rdcu.be/dgNqx)
+* Charis Papadopoulos and Spyridon Tzimas. **Computing a Mininum Subset Feedback Vertex Set on Chordal Graphs Parameterized by Leafage.** _Algorithmica_, 86:874--906 (2024). [arXiv](https://arxiv.org/abs/2103.03035) [DOI](https://doi.org/10.1007/s00453-023-01149-5) (Open Access) [SharedIt](https://rdcu.be/dgNqx)
 * Charis Papadopoulos and Spyridon Tzimas. **Subset feedback vertex set on graphs of bounded independent set size.** _Theoretical Computer Science_, 814:177-–188 (2020). [arXiv](https://arxiv.org/abs/1805.07141) [DOI](https://doi.org/10.1016/j.tcs.2020.01.029)
 * Charis Papadopoulos and Spyridon Tzimas. **Polynomial-time algorithms for the subset feedback vertex set problem on interval graphs and permutation graphs.** _Discrete Applied Mathematics_, 258:204–-221 (2019). [arXiv](https://arxiv.org/abs/1701.04634) [DOI](https://doi.org/10.1016/j.dam.2018.11.017)
 
@@ -52,6 +51,9 @@ In Conference Proceedings
 
 Funding
 =
+* **2024** Contract, Research Committee, University of Ioannina, Greece
+  - Project: **THEMIS: Modeling, Measuring and Mitigating Bias in Online Information Platforms**, cofunded by Greece and the European Union
+* **2024** Travel Grant, Computer Science Institute, Charles University and Department of Mathematics, University of West Bohemia
 * **2023** Travel Grant, Algorithms and Complexity Department, Max Planck Institute for Informatics (**MPI-INF**)
 * **2021--2022** Contract, Research Committee, University of Ioannina, Greece
   - Project: **DIONI: Computing Infrastracture for Big Data Processing and Analysis**, cofunded by Greece and the European Union
@@ -62,5 +64,5 @@ Funding
 
 Experience
 =
-* **2021--2022** Research Assistant and Systems Administrator, Laboratory of Applied and Computational Mathematics, Department of Mathematics, University of Ioannina, Greece
-* **2013--2019** Lab Assistant, Department of Mathematics, University of Ioannina, Greece
+* **2021--2022** Software Developer and Systems Administrator, Laboratory of Applied and Computational Mathematics, Department of Mathematics, University of Ioannina, Greece
+* **2013--2019** Teaching Assistant, Department of Mathematics, University of Ioannina, Greece
