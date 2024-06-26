@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I recently obtained a Ph.D. from the Department of Mathematics, University of Ioannina, Greece, where I was under the supervision of Prof. [Charis Papadopoulos](https://www.cse.uoi.gr/~charis/).
+<style>span:hover{background-color:lightblue;}</style>
+I recently obtained a Ph.D. from the Department of Mathematics, University of Ioannina, Greece, where I was under the supervision of Prof. <span>[Charis Papadopoulos](https://www.cse.uoi.gr/~charis/)</span>.
 My published work is in **Algorithmic and Structural Graph Theory** and **Classical and Parameterized Complexity Theory**.
 My research interests lie broadly in **Theoretical Computer Science**, **Machine Learning** and **Data Science**.
 I am currently actively searching for postdoctoral opportunities.
 
 <p style="color:White;">~</p>
 
-<style>span:hover{background-color:lightblue;}</style>
-Curriculum Vitae \[<span>[PDF](https://stzimas.github.io/files/STzimas_CV.pdf)</span>\]
+My Curriculum Vitae in <span>[PDF](https://stzimas.github.io/files/STzimas_CV.pdf)</span>
 
 <p style="color:White;">~</p>
 
@@ -39,14 +39,14 @@ Publications
 In Journals
 -
 * Charis Papadopoulos and Spyridon Tzimas. **Computing a Mininum Subset Feedback Vertex Set on Chordal Graphs Parameterized by Leafage.** _Algorithmica_, 86:874--906 (2024). <span>[arXiv](https://arxiv.org/abs/2103.03035)</span>, <span>[DOI](https://doi.org/10.1007/s00453-023-01149-5)</span> (Open Access), <span>[SharedIt](https://rdcu.be/dgNqx)</span>
-* Charis Papadopoulos and Spyridon Tzimas. **Subset feedback vertex set on graphs of bounded independent set size.** _Theoretical Computer Science_, 814:177-–188 (2020). [arXiv](https://arxiv.org/abs/1805.07141), [DOI](https://doi.org/10.1016/j.tcs.2020.01.029)
-* Charis Papadopoulos and Spyridon Tzimas. **Polynomial-time algorithms for the subset feedback vertex set problem on interval graphs and permutation graphs.** _Discrete Applied Mathematics_, 258:204–-221 (2019). [arXiv](https://arxiv.org/abs/1701.04634), [DOI](https://doi.org/10.1016/j.dam.2018.11.017)
+* Charis Papadopoulos and Spyridon Tzimas. **Subset feedback vertex set on graphs of bounded independent set size.** _Theoretical Computer Science_, 814:177--188 (2020). <span>[arXiv](https://arxiv.org/abs/1805.07141)</span>, <span>[DOI](https://doi.org/10.1016/j.tcs.2020.01.029)</span>
+* Charis Papadopoulos and Spyridon Tzimas. **Polynomial-time algorithms for the subset feedback vertex set problem on interval graphs and permutation graphs.** _Discrete Applied Mathematics_, 258:204--221 (2019). <span>[arXiv](https://arxiv.org/abs/1701.04634)</span>, <span>[DOI](https://doi.org/10.1016/j.dam.2018.11.017)</span>
 
 In Conference Proceedings
 -
-* Charis Papadopoulos and Spyridon Tzimas. **Computing a Mininum Subset Feedback Vertex Set on Chordal Graphs Parameterized by Leafage.** 33rd International Workshop on Combinatorial Algorithms (**IWOCA 2022**). _Lecture Notes in Computer Science (LNCS)_, 13270:466--479 (2022). [arXiv](https://arxiv.org/abs/2103.03035), [DOI](https://doi.org/10.1007/978-3-031-06678-8_34)
-* Charis Papadopoulos and Spyridon Tzimas. **Subset Feedback Vertex Set on Graphs of Bounded Independent Set Size.** 13th International Symposium on Parameterized and Exact  Computation (**IPEC 2018**). _Leibniz International Proceedings in Informatics (LIPIcs)_, 115:20:1--20:14 (2019). [arXiv](https://arxiv.org/abs/1805.07141), [DOI](https://doi.org/10.4230/LIPIcs.IPEC.2018.20)
-* Charis Papadopoulos and Spyridon Tzimas. **Polynomial-Time Algorithms for the Subset Feedback Vertex Set Problem on Interval Graphs and Permutation Graphs.** 21st International Symposium on Fundamentals of Computation Theory (**FCT 2017**). _Lecture Notes in Computer Science (LNCS)_, 10472:381--394 (2017). [arXiv](https://arxiv.org/abs/1701.04634), [DOI](https://doi.org/10.1007/978-3-662-55751-8_30)
+* Charis Papadopoulos and Spyridon Tzimas. **Computing a Mininum Subset Feedback Vertex Set on Chordal Graphs Parameterized by Leafage.** 33rd International Workshop on Combinatorial Algorithms (**IWOCA 2022**). _Lecture Notes in Computer Science (LNCS)_, 13270:466--479 (2022). <span>[arXiv](https://arxiv.org/abs/2103.03035)</span>, <span>[DOI](https://doi.org/10.1007/978-3-031-06678-8_34)</span>
+* Charis Papadopoulos and Spyridon Tzimas. **Subset Feedback Vertex Set on Graphs of Bounded Independent Set Size.** 13th International Symposium on Parameterized and Exact  Computation (**IPEC 2018**). _Leibniz International Proceedings in Informatics (LIPIcs)_, 115:20:1--20:14 (2019). <span>[arXiv](https://arxiv.org/abs/1805.07141)</span>, <span>[DOI](https://doi.org/10.4230/LIPIcs.IPEC.2018.20)</span>
+* Charis Papadopoulos and Spyridon Tzimas. **Polynomial-Time Algorithms for the Subset Feedback Vertex Set Problem on Interval Graphs and Permutation Graphs.** 21st International Symposium on Fundamentals of Computation Theory (**FCT 2017**). _Lecture Notes in Computer Science (LNCS)_, 10472:381--394 (2017). <span>[arXiv](https://arxiv.org/abs/1701.04634)</span>, <span>[DOI](https://doi.org/10.1007/978-3-662-55751-8_30)</span>
 
 <p style="color:White;">~</p>
 
@@ -58,8 +58,8 @@ Funding
 * **2023** Travel Grant, Algorithms and Complexity Department, Max Planck Institute for Informatics (**MPI-INF**)
 * **2021--2022** Contract, Research Committee, University of Ioannina, Greece
   - Project: **DIONI: Computing Infrastracture for Big Data Processing and Analysis**, cofunded by Greece and the European Union
-* **2017--2020** Scholarship, [Hellenic Foundation for Research & Innovation](https://www.elidek.gr/en/) (**HFRI**)
-* **2012** Scholarship and Distinction Award, [State Scholarships Foundation](https://www.iky.gr/en/)
+* **2017--2020** Scholarship, <span>[Hellenic Foundation for Research & Innovation](https://www.elidek.gr/en/)</span> (**HFRI**)
+* **2012** Scholarship and Distinction Award, <span>[State Scholarships Foundation](https://www.iky.gr/en/)</span>
 
 <p style="color:White;">~</p>
 
