@@ -22,10 +22,10 @@ Curriculum Vitae in <span>[PDF](https://stzimas.github.io/files/STzimas_CV.pdf)<
 
 Education
 =
-* **2014--Present** Undergraduate Student, Department of CSE, University of Ioannina, Greece
-* **2016--2024** Ph.D. Candidate, Department of Mathematics, University of Ioannina, Greece
+* **2016--2024** Ph.D. in Mathematics, University of Ioannina, Greece
   - Supervisor: <span>[Charis Papadopoulos](https://www.cse.uoi.gr/~charis/)</span>
   - Thesis in <span>[PDF](https://stzimas.github.io/files/STzimas_PhD_Thesis.pdf)</span>: **Path and Cycle Hitting Problems: Algorithms and Complexity**
+* **2014--Present** Undergraduate Student, Department of CSE, University of Ioannina, Greece
 * **2013--2016** M.Sc. in Mathematics with a specialization in Computational Mathematics and CS, University of Ioannina, Greece
   - Supervisor: <span>[Charis Papadopoulos](https://www.cse.uoi.gr/~charis/)</span>
   - Thesis in <span>[PDF](https://stzimas.github.io/files/STzimas_MSc_Thesis.pdf)</span>: **The Subset Feedback Vertex Set Problem on Interval Graphs and Permutation Graphs**
