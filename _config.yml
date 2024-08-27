@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Spyridon Tzimas"
 title_separator          : "-"
 name                     : &name "Spyridon Tzimas"
-description              : &description "Ph.D. Candidate of the University of Ioannina, Greece"
+description              : &description "Ph.D. in Mathematics from the University of Ioannina, Greece"
 url                      : https://stzimas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stzimas.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Spyridon Tzimas"
   avatar           : "SpTzimas_Photo.jpg"
-  bio              : "Ph.D. Candidate"
-  location         : "UoI, Greece"
-  employer         :
+  bio              : "Ph.D. in Mathematics"
+  location         : "Ioannina, Greece"
+  employer         : "UoI"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=bSbIph4AAAAJ&view_op=list_works&sortby=pubdate #"http://yourfullgooglescholarurl.com"
-  email            : "s.tzimas@uoi.gr"
+  email            : "roytzimas@hotmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -154,7 +154,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+markdown: GFM
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
