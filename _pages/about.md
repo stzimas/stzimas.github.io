@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>span:hover{background-color:lightblue;}</style>
 I recently obtained a Ph.D. from the Department of Mathematics, University of Ioannina, Greece, where I was under the supervision of Prof. <span>[Charis Papadopoulos](https://www.cse.uoi.gr/~charis/)</span>.
 My published work is in **Algorithmic and Structural Graph Theory** and **Classical and Parameterized Complexity Theory**.
 My research interests lie broadly in **Theoretical Computer Science**, **Machine Learning** and **Data Science**.
@@ -73,5 +72,5 @@ Experience
 
 ||||
 |---:|:---:|:---|
-|**2021&#x2212;2022**|Software Developer and<br>Systems Administrator|Laboratory of Applied and Computational Mathematics,<br>Department of Mathematics, University of Ioannina, Greece|
+|**2021&#x2212;2022**|Software Developer and Systems Administrator|Laboratory of Applied and Computational Mathematics, Department of Mathematics, University of Ioannina, Greece|
 |**2013&#x2212;2019**|Teaching Assistant|Department of Mathematics, University of Ioannina, Greece|
