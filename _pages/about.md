@@ -22,10 +22,11 @@ Curriculum Vitae in <span>[PDF](https://stzimas.github.io/files/STzimas_CV.pdf)<
 
 Education
 =
+
 | |Degree|
 |---:|:---|
 |**2016&#x2212;2024**|Ph.D. in Mathematics, University of Ioannina, Greece<br><ul><li>Supervisor: <span>[Charis Papadopoulos](https://www.cse.uoi.gr/~charis/)</span></li><li>Thesis in <span>[PDF](https://stzimas.github.io/files/STzimas_PhD_Thesis.pdf)</span>: **Path and Cycle Hitting Problems: Algorithms and Complexity**</li></ul>|
-|**2014&#x2212;Present**|Studying towards a Diploma (&#x2212;B.Sc.+M.Sc.) in CSE, University of Ioannina, Greece|
+|**2014&#x2212;Present**|Studying towards a Diploma (&#x2261;B.Sc.+M.Sc.) in CSE, University of Ioannina, Greece|
 |**2013&#x2212;2016**|M.Sc. in Mathematics with a specialization in Computational Mathematics and CS, University of Ioannina, Greece<br><ul><li>Supervisor: <span>[Charis Papadopoulos](https://www.cse.uoi.gr/~charis/)</span></li><li>Thesis in <span>[PDF](https://stzimas.github.io/files/STzimas_MSc_Thesis.pdf)</span>: **The Subset Feedback Vertex Set Problem on Interval Graphs and Permutation Graphs**</li></ul>|
 |**2009&#x2212;2013**|B.Sc. in Mathematics, University of Ioannina, Greece|
 
@@ -33,6 +34,7 @@ Education
 
 Publications
 =
+
 |In Journals|
 |---|
 |Charis Papadopoulos and Spyridon Tzimas. **Computing a Mininum Subset Feedback Vertex Set on Chordal Graphs Parameterized by Leafage.** _Algorithmica_, 86:874&#x2212;906 (2024). <span>[arXiv](https://arxiv.org/abs/2103.03035)</span>, <span>[DOI](https://doi.org/10.1007/s00453-023-01149-5)</span> (Open Access), <span>[SharedIt](https://rdcu.be/dgNqx)</span>|
@@ -49,6 +51,7 @@ Publications
 
 Funding
 =
+
 | | |Awarded by|
 |---:|:---:|:---|
 |**2024**&#x2212;Present|Contract|Research Committee, University of Ioannina, Greece<br><ul><li>Project: **THEMIS: Modeling, Measuring and Mitigating Bias in Online Information Platforms**, cofunded by Greece and the European Union</li></ul>|
@@ -62,6 +65,7 @@ Funding
 
 Experience
 =
+
 | | |Gained at|
 |---:|:---:|:---|
 |**2021&#x2212;2022**|Software Developer and<br>Systems Administrator|Laboratory of Applied and Computational Mathematics,<br>Department of Mathematics, University of Ioannina, Greece|
